@@ -1,0 +1,16 @@
+
+:6:25:1:ksiażka numer dwa:autor dwa:
+:3:14:10:Ksiazka nr trzy:Autor numer trzy:
+:4:14:3:Ksiazka nr cztery:Autor numer cztery:
+:3:14:10:Ksiazka nr trzy:Autor numer trzy:
+:4:14:3:Ksiazka nr cztery:Autor numer cztery:
+:3:14:10:Ksiazka nr trzy:Autor numer trzy:
+:4:14:3:Ksiazka nr cztery:Autor numer cztery:
+:3:14:10:Ksiazka nr trzy:Autor numer trzy:
+:4:14:3:Ksiazka nr cztery:Autor numer cztery:
+:3:14:10:Ksiazka nr trzy:Autor numer trzy:
+:4:14:3:Ksiazka nr cztery:Autor numer cztery:
+:6:25:1:ksiażka numer dwa:autor dwa:
+:8:65:4:78:89:
+:3:14:10:Ksiazka nr trzy:Autor numer trzy:
+:4:14:3:Ksiazka nr cztery:Autor numer cztery:

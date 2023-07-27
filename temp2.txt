@@ -1,0 +1,3 @@
+:Daniel:Łataś:912312000:3:autor piąty:test numer pięć:90:
+:Daniel:Łataś:912312000:11:autor dwa:ksiażka numer dwa:275:
+:Andrzej:Beton:123456789:6:Autor numer cztery:Ksiazka nr cztery:84:

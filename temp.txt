@@ -1,0 +1,4 @@
+:3:14:2:Ksiazka nr trzy:Autor numer trzy:
+:4:14:3:Ksiazka nr cztery:Autor numer cztery:
+:6:25:1:ksiażka numer dwa:autor dwa:
+:9:13:3:Andrzej:Beton:Beton:
